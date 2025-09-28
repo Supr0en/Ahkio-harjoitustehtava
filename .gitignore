@@ -1,3 +1,6 @@
+# Node.js dependencies
 node_modules/
-order_total.csv
-your-database.db
+
+# Specific files
+order_totals.csv
+your_database.db
