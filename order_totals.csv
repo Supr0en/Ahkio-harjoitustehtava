@@ -1,4 +1,4 @@
 order_id,customer_name,net_total,vat_total,gross_total,is_fully_in_stock
+O-9003,Stockholm AB,35.09,4.91,40.00,true
 O-9001,Acme Oy,70.85,15.65,86.50,true
 O-9002,Berlin GmbH,408.41,101.59,510.00,false
-O-9003,Stockholm AB,35.09,4.91,40.00,true
