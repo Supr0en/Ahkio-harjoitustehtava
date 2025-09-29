@@ -123,3 +123,5 @@ function getOrderInfo() {
       console.log('CSV added to folder!');
    })
 })();
+
+// Run by using "node main.js" inside terminal.
